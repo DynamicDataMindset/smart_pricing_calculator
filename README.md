@@ -28,8 +28,11 @@ I built a **web-based pricing calculator** using **Python + Streamlit** that aut
 <img width="1900" height="1164" alt="image" src="https://github.com/user-attachments/assets/5c3a8b16-cb8f-4b54-a35f-164403c2f5cf" />
 
 🔴 Problem box → highlighted in light red
+
 🟡 Solution Plan → highlighted in light yellow
+
 🟢 Tools → highlighted in light green
+
 🔵 Outcome → highlighted in light blue
 
 ---
@@ -52,7 +55,7 @@ I built a **web-based pricing calculator** using **Python + Streamlit** that aut
 ---
 
 ## 🖥️ Demo
-👉 Live App: [https://smart-pricing-calculator.streamlit.app](https://smart-pricing-calculator.streamlit.app)  
+👉 Live App: [https://smart-pricing-calculator.streamlit.app](https://smartpricingcalculator-nth5x2avjcb4zsjg7uzwge.streamlit.app/)  
 
 ---
 
@@ -65,9 +68,13 @@ I built a **web-based pricing calculator** using **Python + Streamlit** that aut
 ✅ The Outcome
 
 With this app, the sales team can now:
+
 Generate instant and accurate quotes without waiting for supplier updates.
+
 Provide clients with both Excl. VAT and Incl. VAT prices transparently.
+
 Reduce response times from 2+ days → a few seconds.
+
 This not only improved efficiency but also enhanced customer trust and professionalism in pricing communication.
 
 📌 Tech Stack
